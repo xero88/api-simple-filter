@@ -12,6 +12,8 @@ Inspired by [strapi filters](https://strapi.io/documentation/3.0.0-beta.x/guides
 
 - "in" operator not working
 
+- boolean type not working
+
 - complete documentation
 
 - publish on rubygems
