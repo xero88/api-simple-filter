@@ -10,15 +10,17 @@ Inspired by [strapi filters](https://strapi.io/documentation/3.0.0-beta.x/guides
 
 ## :warning: TODO
 
-complete documentation
+- "in" operator not working
 
-publish on rubygems
+- complete documentation
 
-rename in api_smart_filters
+- publish on rubygems
 
-decouple of rails (hard)
+- rename in api_smart_filters
 
-site statique github de présentation
+- decouple of rails (hard)
+
+- site statique github de présentation
 
 ## :blue_book: Table of contents
 
