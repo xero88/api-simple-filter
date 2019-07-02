@@ -1,12 +1,26 @@
-# ApiSimpleFilter
+# :fire: ApiSimpleFilter :fire:
 
-## TODO :warning:
+Enable smart filters for your API.
+
+Example of feature :
+
+`GET /products?name_contains=tesla&price_gte=2000&color_in=white,black`
+
+Inspired by [strapi filters](https://strapi.io/documentation/3.0.0-beta.x/guides/filters.html#available-operators)
+
+## :warning: TODO
 
 complete documentation
 
 publish on rubygems
 
-## Table of contents
+rename in api_smart_filters
+
+decouple of rails (hard)
+
+site statique github de présentation
+
+## :blue_book: Table of contents
 
 ### [Requirements](#requirements)
 
